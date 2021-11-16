@@ -40,12 +40,12 @@ public class FrmArquitecto extends JFrame{
         setLayout(null);
         barra=new JScrollPane();
         
-        barra = new JScrollPane();
-        area = new JTextArea(10,10);
-        barra.setViewportView(area);
-        barra.setBounds(50,340,500,200);
-        getContentPane().add(barra);
-        area.setEditable(false);
+//        barra = new JScrollPane();
+//        area = new JTextArea(10,10);
+//        barra.setViewportView(area);
+//        barra.setBounds(50,340,500,200);
+//        getContentPane().add(barra);
+//        area.setEditable(false);
 
         
         lblCodigo=new JLabel("Código:");
