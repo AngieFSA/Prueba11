@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class FrmArquitecto extends JFrame{
     
-
+//azul linea nueva?
     Arquitecto arquitecto;
     JScrollPane barra;
     JTextArea area;
